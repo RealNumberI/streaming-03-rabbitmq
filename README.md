@@ -33,6 +33,7 @@ Get started with RabbitMQ, a message broker, that enables multiple processes to 
 
 You'll need to fix an error in the program to get it to run.
 Once it runs and finishes, we can reuse the terminal.
+** The error message I got made me think that I hadn't installed something properly.  The error is very actually simple and can be fond by looking carefully at each word in the first half.**
 
 ## Version 1 - Execute the Consumer/Listener
 
@@ -96,6 +97,6 @@ Each of the version 2 programs include an error as well.
 - [Using Python environments in VS Code](https://code.visualstudio.com/docs/python/environments)
 
 ## Multiple Terminals Screenscot
-### Here my emit and listen don't line up perfectly because I was playing with it in VS Code to see if I could get it to listen also, and it did!
+### Here my "emit" and "listen" lines don't line up perfectly because I was playing with it in VS Code to see if I could get it to listen also, and it did!
 
 ![Multiple terminals]( Screenshot-Multiple-terminals.png )
