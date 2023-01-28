@@ -95,6 +95,7 @@ Each of the version 2 programs include an error as well.
 - [RabbitMQ Tutorial - Hello, World!](https://www.rabbitmq.com/tutorials/tutorial-one-python.html)
 - [Using Python environments in VS Code](https://code.visualstudio.com/docs/python/environments)
 
-## Multiple Terminals
+## Multiple Terminals Screenscot
+# Here my emit and listen dont' line up perfectly because I was playing with it in VS Code to see if I could get it to listen also, and it did!
 
 ![Multiple terminals]( Screenshot-Multiple-terminals.png )
