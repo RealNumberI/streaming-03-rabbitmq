@@ -2,7 +2,8 @@
 
 Always customize this docstring. 
 
-Add your name, date, and a description of the program.
+Author: Tanya Fagaly
+Date: January 27, 2023
 
 Listens for messages on the queue.
 This process runs continously. 

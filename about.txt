@@ -1,0 +1,44 @@
+
+
+==============================================================
+==============================================================
+
+ Welcome! 
+
+ It's 2023-01-24 at 08:27 PM
+
+ This file is running on:    nt Windows 10
+ 
+ The Python version is:      3.10.9
+ 
+ The Python interpreter is at: 
+ c:\Users\dodod\OneDrive\Documents\GitHub\streaming-03-rabbitmq-main\.conda\python.exe
+
+ The active environment should be either conda OR pip (one should be None):
+
+     Active conda env is: c:\Users\dodod\OneDrive\Documents\GitHub\streaming-03-rabbitmq-main\.conda
+     Active pip env is:   None
+ 
+ The path to the active virtual environment is:
+
+ c:\Users\dodod\OneDrive\Documents\GitHub\streaming-03-rabbitmq-main\.conda
+ 
+ The Current Working Directory (CWD) where this command was launched is:
+
+ C:\Users\dodod\OneDrive\Documents\GitHub\streaming-03-rabbitmq-main
+ 
+ The absolute path to the data directory is:
+
+ C:\Users\dodod\OneDrive\Documents\GitHub\streaming-03-rabbitmq-main\
+ 
+ The absolute path to this source directory is:
+
+ c:\Users\dodod\OneDrive\Documents\GitHub\streaming-03-rabbitmq-main
+ 
+ The absolute path to this file is:
+
+ c:\Users\dodod\OneDrive\Documents\GitHub\streaming-03-rabbitmq-main\about.py
+ 
+==============================================================
+==============================================================
+

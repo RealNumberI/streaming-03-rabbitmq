@@ -1,8 +1,8 @@
 """
     This program sends a message to a queue on the RabbitMQ server.
 
-    Author: Denise Case
-    Date: January 14, 2023
+    Author: Tanya Fagaly
+    Date: January 27, 2023
 
 """
 
@@ -22,6 +22,10 @@ def send_message(host: str, queue_name: str, message: str):
     """
 
     try:
+        # Create a message
+        message = "Howdy there!"
+        # Define host
+        host = "LOCALHOST"        
         # create a blocking connection to the RabbitMQ server
         conn = pika.BlockingConnection(pika.ConnectionParameters(host))
         # use the connection to create a communication channel

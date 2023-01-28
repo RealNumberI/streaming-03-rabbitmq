@@ -1,4 +1,6 @@
 # streaming-03-rabbitmq
+# Tanya Fagaly
+# January 28, 2023
 
 Get started with RabbitMQ, a message broker, that enables multiple processes to communicate reliably through an intermediary
 
@@ -38,7 +40,7 @@ Once it runs and finishes, we can reuse the terminal.
 1. Run the file.
 
 You'll need to fix an error in the program to get it to run.
-Once it runs successfully, will it terminate on its own? How do you know? 
+Once it runs successfully, will it terminate on its own? How do you know? **It didn't seem to terminate becuase a command line never popped up until I hit ctl-C.**
 As long as the process is running, we cannot use this terminal for other commands. 
 
 ## Version 1 - Open a New Terminal / Emit More Messages
@@ -49,6 +51,7 @@ As long as the process is running, we cannot use this terminal for other command
 1. Execute the script. 
 1. Watch what happens in the listening window.
 1. Do this several times to emit at least 3 different messages.
+**I did this, and my screenshot includes some messages not in the emit because I was makign changes in VS COde.  It ws fun to watch the listen window update for VS code, too.**
 
 ## Version 1: Don't Repeat Yourself (DRY)
 
@@ -84,7 +87,7 @@ Each of the version 2 programs include an error as well.
 1. When we open a connection, we should close the connection. 
 1. Which of the 4 files will always close() the connection?
 1. Search GitHub for if __name__ == "__main__":
-1. How many hits did you get? 
+1. How many hits did you get? **I stopped counting at 30!**
 1. Learn and understand this common Python idiom.
 
 ## Reference
@@ -94,4 +97,4 @@ Each of the version 2 programs include an error as well.
 
 ## Multiple Terminals
 
-![Mac Example](screenshot.png)
+![Multiple terminals]( Screenshot Multiple terminals.png )
