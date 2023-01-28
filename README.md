@@ -97,4 +97,4 @@ Each of the version 2 programs include an error as well.
 
 ## Multiple Terminals
 
-![Multiple terminals]( Screenshot Multiple terminals.png )
+![Multiple terminals]( Screenshot-Multiple-terminals.png )
