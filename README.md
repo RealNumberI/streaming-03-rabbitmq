@@ -40,7 +40,7 @@ Once it runs and finishes, we can reuse the terminal.
 1. Run the file.
 
 You'll need to fix an error in the program to get it to run.
-Once it runs successfully, will it terminate on its own? How do you know? **It didn't seem to terminate becuase a command line never popped up until I hit ctl-C.**
+Once it runs successfully, will it terminate on its own? How do you know? **It didn't seem to terminate because a command line never popped up until I hit ctl-C.**
 As long as the process is running, we cannot use this terminal for other commands. 
 
 ## Version 1 - Open a New Terminal / Emit More Messages
@@ -51,7 +51,7 @@ As long as the process is running, we cannot use this terminal for other command
 1. Execute the script. 
 1. Watch what happens in the listening window.
 1. Do this several times to emit at least 3 different messages.
-**I did this, and my screenshot includes some messages not in the emit because I was makign changes in VS COde.  It ws fun to watch the listen window update for VS code, too.**
+**I did this, and my screenshot includes some messages not in the emit because I was making changes in VS Code.  It ws fun to watch the listen window update for VS code, too.**
 
 ## Version 1: Don't Repeat Yourself (DRY)
 
